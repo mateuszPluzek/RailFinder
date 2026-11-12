@@ -1,6 +1,6 @@
 # wdpai projekt - wyszukiwanie połączeń kolejowych
 
-Projekt ten zawiera pełną konfigurację dockera, wraz z bazą danych, front-endem i back-endem. Strona pozwala na zakładanie kont, oraz podtrzymanie sesji użytkowników, którzy mają przypisane do swoich kont ulubione stacje, które moga dowolnie zmieniac. Ulbione stacje pojawiają się na samym poczatku listy z dostepnymi stacjami. Istnieje również konto administratora, który może dodawać wpisy do bazy danych z poziomu aplikacji.
+Projekt ten zawiera pełną konfigurację dockera, wraz z bazą danych, front-endem i back-endem. Strona pozwala na zakładanie kont, oraz podtrzymanie sesji użytkowników, którzy mają przypisane do swoich kont ulubione stacje, które mogą dowolnie zmieniać. Ulubione stacje pojawiają się na samym początku listy z dostępnymi stacjami. Istnieje również konto administratora, który może dodawać wpisy do bazy danych z poziomu aplikacji.
 
 
 ## Wymagane zasoby
@@ -30,7 +30,7 @@ Projekt ten zawiera pełną konfigurację dockera, wraz z bazą danych, front-en
 ### Admin tools
 ![obraz](https://github.com/mateuszPluzek/wdpai/assets/134234534/1a640102-6b52-4c60-aaec-7df06ecaf89c)
 
-### Wyszukiwanie Połaczeń
+### Wyszukiwanie Połączeń
 ![obraz](https://github.com/mateuszPluzek/wdpai/assets/134234534/41a91ea2-975f-47ef-8aeb-5a025ca0a210)
 
 ### Przeglądanie stacji
